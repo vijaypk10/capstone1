@@ -9,7 +9,6 @@ The goal is to determine if there are strategies that can be found
 to reduce unwanted animal populations by exploring the relationships
 between those populations and the populations of wanted animals.
 
-
 2: Happiness as a function of relationships to various countries
 Consider the extent to which proximity to various countries influences
 happiness in other countries.  Is it good to live in a country that's near
