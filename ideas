@@ -30,3 +30,7 @@ Figure out if women are underpaid in Hollywood.  Look at salary data
 in relation to gross receipts, the number of lead actors in a given movie,
 the movie genre and other data sets that may be available.  
 
+4: Identify peaks and troughs in time series data
+The goal is to identify peaks and troughs without the use of arbitrary
+measures like sliding windows of fixed size of given length moving
+averages.  This is somethign and humans do visually very easily.
