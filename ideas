@@ -34,3 +34,7 @@ the movie genre and other data sets that may be available.
 The goal is to identify peaks and troughs without the use of arbitrary
 measures like sliding windows of fixed size of given length moving
 averages.  This is somethign and humans do visually very easily.
+
+5: Question identification
+Solve the stackoverflow problem. When are two questions, though they
+may be phrased differently, really the same?
