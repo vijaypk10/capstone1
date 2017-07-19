@@ -33,7 +33,7 @@ the movie genre and other data sets that may be available.
 4: Identify peaks and troughs in time series data
 The goal is to identify peaks and troughs without the use of arbitrary
 measures like sliding windows of fixed size of given length moving
-averages.  This is somethign and humans do visually very easily.
+averages.  This is something and humans do visually very easily.
 
 5: Question identification
 Solve the stackoverflow problem. When are two questions, though they
