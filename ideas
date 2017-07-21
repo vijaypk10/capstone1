@@ -42,3 +42,29 @@ may be phrased differently, really the same?
 - https://archive.org/details/stackexchange
 - https://ia800500.us.archive.org/22/items/stackexchange/readme.txt
 - https://politics.stackexchange.com/questions/21779/does-it-usually-backfire-if-a-presidential-candidate-challenges-an-incumbent-fro (an example of a duplicate question)
+
+6: Bitcoin investigations
+The thing about bitcoin is that the blockchain gives you the ability to track individual
+entities through the market.  Doing so would be a project in itself, since people are
+likely to spread their transactions through multiple accounts, but that data is public
+along with the rest of the block chain.  To my knowledge, there is no other publicly
+available dataset that provides a similar opportunitiy.
+
+As an example of what one might look at, it's a commonly accepted notion that consolidation
+patterns represent distribution and accumulation between so-called weak and strong hands.
+Being able to track entities alongside price action might make it possible to evaluate such
+a hypothesis.  One might then be able to generalize the result by making a comparison with 
+price data from other assets.  
+
+This would be a labor intensive project, as bitcoin is transacted vis-a-vis many currencies
+and other digital assets.  One might have to gather data from all of those and adjust 
+it to a common standard, then evaluate the result against the transaction narratives extracted
+from the blockchain data. But there may be a holy grail available at the end, proving or disproving
+beliefs about weak and strong hands and possibly a predictive model.
+
+
+
+
+
+
+
