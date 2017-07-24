@@ -14,101 +14,101 @@ ideas for first capstone project
    - [ need data on wanted pet populations ]
 
 2: Happiness as a function of relationships to various countries
-Consider the extent to which proximity to various countries influences
-happiness in other countries.  Is it good to live in a country that's near
-China, the US, or any other country?  Might also consider trade relationships
-between countries or any other data that links countries together to get
-an idea of how one population benefits or is hurt by those links.
-- https://www.kaggle.com/unsdsn/world-happiness
-- http://www.happycounts.org/for-researchers.html
-- https://ourworldindata.org/happiness-and-life-satisfaction/
-- http://www.worlddatabaseofhappiness.eur.nl
-- http://www.oecdbetterlifeindex.org/
+   Consider the extent to which proximity to various countries influences
+   happiness in other countries.  Is it good to live in a country that's near
+   China, the US, or any other country?  Might also consider trade relationships
+   between countries or any other data that links countries together to get
+   an idea of how one population benefits or is hurt by those links.
+   - https://www.kaggle.com/unsdsn/world-happiness
+   - http://www.happycounts.org/for-researchers.html
+   - https://ourworldindata.org/happiness-and-life-satisfaction/
+   - http://www.worlddatabaseofhappiness.eur.nl
+   - http://www.oecdbetterlifeindex.org/
 
 3: Pay fairness in Hollywood
-Figure out if women are underpaid in Hollywood.  Look at salary data
-in relation to gross receipts, the number of lead actors in a given movie,
-the movie genre and other data sets that may be available.  
+   Figure out if women are underpaid in Hollywood.  Look at salary data
+   in relation to gross receipts, the number of lead actors in a given movie,
+   the movie genre and other data sets that may be available.  
 
 4: Identify peaks and troughs in time series data
-The goal is to identify peaks and troughs without the use of arbitrary
-measures like sliding windows of fixed size or given length moving
-averages.  This is something humans do visually very easily, probably by
-looking at white space.
+   The goal is to identify peaks and troughs without the use of arbitrary
+   measures like sliding windows of fixed size or given length moving
+   averages.  This is something humans do visually very easily, probably by
+   looking at white space.
 
 5: Question identification
-Solve the stackoverflow problem. When are two questions, though they
-may be phrased differently, really the same?
-- https://www.ics.uci.edu/~duboisc/stackoverflow/
-- https://archive.org/details/stackexchange
-- https://ia800500.us.archive.org/22/items/stackexchange/readme.txt
-- https://politics.stackexchange.com/questions/21779/does-it-usually-backfire-if-a-presidential-candidate-challenges-an-incumbent-fro (an example of a duplicate question)
+   Solve the stackoverflow problem. When are two questions, though they
+   may be phrased differently, really the same?
+   - https://www.ics.uci.edu/~duboisc/stackoverflow/
+   - https://archive.org/details/stackexchange
+   - https://ia800500.us.archive.org/22/items/stackexchange/readme.txt
+   - https://politics.stackexchange.com/questions/21779/does-it-usually-backfire-if-a-presidential-candidate-challenges-an-incumbent-fro (an example of a duplicate question)
 
 6: Bitcoin investigations
-The thing about bitcoin is that the blockchain gives you the ability to track individual
-entities through the market.  Doing so would be a project in itself, since people are
-likely to spread their transactions through multiple accounts, but that data is public
-along with the rest of the block chain.  To my knowledge, there is no other publicly
-available dataset that provides a similar opportunitiy.
-
-As an example of what one might look at, it's a commonly accepted notion that consolidation
-patterns represent distribution and accumulation between so-called weak and strong hands.
-Being able to track entities alongside price action might make it possible to evaluate such
-a hypothesis.  One might then be able to generalize the result by making a comparison with 
-price data from other assets.  
-
-This would be a labor intensive project, as bitcoin is transacted vis-a-vis many currencies
-and other digital assets.  One might have to gather data from all of those and adjust 
-it to a common standard, then evaluate the result against the transaction narratives extracted
-from the blockchain data. But there may be a holy grail available at the end, proving or disproving
-beliefs about weak and strong hands and possibly a predictive model.
-
+   The thing about bitcoin is that the blockchain gives you the ability to track individual
+   entities through the market.  Doing so would be a project in itself, since people are
+   likely to spread their transactions through multiple accounts, but that data is public
+   along with the rest of the block chain.  To my knowledge, there is no other publicly
+   available dataset that provides a similar opportunitiy.
+   
+   As an example of what one might look at, it's a commonly accepted notion that consolidation
+   patterns represent distribution and accumulation between so-called weak and strong hands.
+   Being able to track entities alongside price action might make it possible to evaluate such
+   a hypothesis.  One might then be able to generalize the result by making a comparison with 
+   price data from other assets.  
+   
+   This would be a labor intensive project, as bitcoin is transacted vis-a-vis many currencies
+   and other digital assets.  One might have to gather data from all of those and adjust 
+   it to a common standard, then evaluate the result against the transaction narratives extracted
+   from the blockchain data. But there may be a holy grail available at the end, proving or disproving
+   beliefs about weak and strong hands and possibly a predictive model.
+   
 7: Attitudes towards animal rights and veganism - boundaries of the social contract
-Subjectively, it seems that attitudes towards animal rights and veganism
-correlate with other cultural factors including wealth, education level and 
-political attitudes.  However it's not clear that empathy and compassion in the
-general sense correlate with these things.  Instead, it seems that the boundaries
-of the social contract in which these qualities (compassion, empathy) are expressed 
-is what differs.  
-
-Which begs two questions: What factors determine individual opinions concerning
-the boundaries of the social contract? Why?
-
-Hypothesis: "There but for the grace of God go I"
-I propose a somewhat Rawlsian approach to the question.  The theory is that the
-boundaries of the social contract are ultimately measured in terms of a person's
-ability to imagine himself experiencing a different fate.  This theory depends on the
-view that the social contract is not a moral ideal but, rather, simply what the name implies,
-a contract made by those who are in a position to construct and enforce it.  In this theory, 
-it was the explicit racial aspect of slavery in antebellum America that made it persistent 
-in the face of a constitution that articulated basic principles that were incompatible
-with it.  The racial barrier kept the founders from being able, in a Rawlsian sense, from 
-being able to imagine themselves as slaves.  This is in contrast to the majority of ancient
-forms of slavery, which had no racial basis.  Since slaves did not have a seat at the 
-table, and since the "there but for the grace of God go I" formula did not extend over 
-the racial barrier, they were practically excluded from the social contract.
-
-This state of affairs was unsustainable, not because it was immoral but because the racial
-barrier on which it dependeds is not very strong.  Over time, racial mixing ensured that
-the "there but for the grace of God go I (or my children ..)" formula would have to encorporate
-all races into the contract.  
-
-Clearly, the same logic does not apply to animals.  Aside from Kafka, nobody imagines themselves
-waking up one day as a cockroach.  
-
-But our task is to predict if that will change.  It should in principle be possible to 
-"learn" a boundary that explains the contours of the social contract.  If we wanted to ask, 
-for example, if it inevitably includes illegal immigrants, we would have to acquire data that 
-allowed us to infer the extent to which people can imagine themselves in that fate.
-
-From this analysis, we should be able to predict the path and extent of future changes
-in the social contract.  
-
-For example, is a single payer health care system inevitable?  (Health care being 
-acknowledged as a right would be a fundamental alteration of the social contract
-in the US, which is still a society very much grounded in libertarian thinking, 
-according to which we never have rights to specific outcomes, only to opportunites 
-- ie, freedom).  The answer would have to be found in data that allowed us to infer
-the extent to which people can imagine themselves being denied any reasonable path
-to access to health care.  In such a case, we might predict that they will act to make
-it a right, despite any ideological obstacles. 
+   Subjectively, it seems that attitudes towards animal rights and veganism
+   correlate with other cultural factors including wealth, education level and 
+   political attitudes.  However it's not clear that empathy and compassion in the
+   general sense correlate with these things.  Instead, it seems that the boundaries
+   of the social contract in which these qualities (compassion, empathy) are expressed 
+   is what differs.  
+   
+   Which begs two questions: What factors determine individual opinions concerning
+   the boundaries of the social contract? Why?
+   
+   Hypothesis: "There but for the grace of God go I"
+   I propose a somewhat Rawlsian approach to the question.  The theory is that the
+   boundaries of the social contract are ultimately measured in terms of a person's
+   ability to imagine himself experiencing a different fate.  This theory depends on the
+   view that the social contract is not a moral ideal but, rather, simply what the name implies,
+   a contract made by those who are in a position to construct and enforce it.  In this theory, 
+   it was the explicit racial aspect of slavery in antebellum America that made it persistent 
+   in the face of a constitution that articulated basic principles that were incompatible
+   with it.  The racial barrier kept the founders from being able, in a Rawlsian sense, from 
+   being able to imagine themselves as slaves.  This is in contrast to the majority of ancient
+   forms of slavery, which had no racial basis.  Since slaves did not have a seat at the 
+   table, and since the "there but for the grace of God go I" formula did not extend over 
+   the racial barrier, they were practically excluded from the social contract.
+   
+   This state of affairs was unsustainable, not because it was immoral but because the racial
+   barrier on which it dependeds is not very strong.  Over time, racial mixing ensured that
+   the "there but for the grace of God go I (or my children ..)" formula would have to encorporate
+   all races into the contract.  
+   
+   Clearly, the same logic does not apply to animals.  Aside from Kafka, nobody imagines themselves
+   waking up one day as a cockroach.  
+   
+   But our task is to predict if that will change.  It should in principle be possible to 
+   "learn" a boundary that explains the contours of the social contract.  If we wanted to ask, 
+   for example, if it inevitably includes illegal immigrants, we would have to acquire data that 
+   allowed us to infer the extent to which people can imagine themselves in that fate.
+   
+   From this analysis, we should be able to predict the path and extent of future changes
+   in the social contract.  
+   
+   For example, is a single payer health care system inevitable?  (Health care being 
+   acknowledged as a right would be a fundamental alteration of the social contract
+   in the US, which is still a society very much grounded in libertarian thinking, 
+   according to which we never have rights to specific outcomes, only to opportunites 
+   - ie, freedom).  The answer would have to be found in data that allowed us to infer
+   the extent to which people can imagine themselves being denied any reasonable path
+   to access to health care.  In such a case, we might predict that they will act to make
+   it a right, despite any ideological obstacles. 
