@@ -1,24 +1,26 @@
 1: What is the problem you want to solve?
 
-Sites like Quora and Stackexchange allow people to ask any question and get answers from other users.
-The problem they face is how to know when a question has already been asked and answered so that
-their systms don't fill up with duplicate questions.  
+   Sites like Quora and Stackexchange allow people to ask any 
+   question and get answers from other users.  The problem they 
+   face is how to know when a question has already been asked and 
+   answered so that their systms don't fill up with duplicate questions.  
 
-2: Who is your client adn why do they care about this problem?
+2: Who is your client and why do they care about this problem?
 
-The client is a hypothetical service similar to these two, though perhaps in a more specific domain.
-They woudl use the results of this analysis to direct users with new questions to other questions
-that may be sufficiently similar to their own.
+   The client is a hypothetical service similar to these two, though 
+   perhaps in a more specific domain.  They would use the results of 
+   this analysis to direct users with new questions to other questions
+   that may be sufficiently similar to their own.
 
 3: What data are you going to use for this?
 
-Quora has published a dataset on Kaggle that marks question duplicates.  The dataset is large and
-very robust, and ideally marked for this task.
+   Quora has published a dataset on Kaggle that marks question duplicates.  
+   The dataset is large and very robust, and ideally marked for this task.
 
-4: In brief, ourlien your approach to solving this problem.
+4: In brief, outline your approach to solving this problem.
 
-Are you kidding?  My approach is to flail wildly until I get the answer
+   Are you kidding?  My approach is to flail wildly until I get the answer
 
 5: What are your deliverables? (Typically, this would include code along with a paper and/or slide deck)
 
-I will deliver a working system
+   I will deliver a working system
